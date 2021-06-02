@@ -6,7 +6,7 @@
 ##### --.stat.uci.edu/--
 ##### today.uci.edu/department/information_computer_sciences/--
 
-Honor the politeness delay for each site
+Honor the politeness delay for each site\n
 Crawl all pages with high textual information content
 Detect and avoid infinite traps
 Detect and avoid sets of similar pages with no information
